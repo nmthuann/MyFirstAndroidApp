@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+
+<!--    <Button-->
+<!--        android:id="@+id/category2"-->
+<!--        android:layout_width="195dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="#FFFFFFFF"-->
+<!--        android:text="Interested"-->
+<!--        android:translationX="210dp"-->
+<!--        android:translationY="20dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/category"-->
+<!--        android:layout_width="195dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Categories"-->
+<!--        android:translationX="5dp"-->
+<!--        android:translationY="-27dp" />-->
+
+    <ListView
+        android:id="@+id/lvCategories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:divider="#F28482"
+        android:dividerHeight="2dp"
+        android:listSelector="#F28482" />
+
+</LinearLayout>

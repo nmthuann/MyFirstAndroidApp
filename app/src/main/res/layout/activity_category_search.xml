@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+
+    <ListView
+        android:id="@+id/lv_category_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#F28482"
+        android:dividerHeight="1dp"
+        android:listSelector="#F28482"
+        android:scrollbarSize="10dp"
+        android:textAlignment="gravity"></ListView>
+
+
+
+</LinearLayout>
+
+<!--    android:layout_weight="2"-->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationViewShape">
+        <item name="cornerSize">80%</item> <!-- Độ cong của BottomNavigationView -->
+        <item name="cornerFamily">rounded</item> <!-- Kiểu cong của BottomNavigationView -->
+    </style>
+
+
+</resources>

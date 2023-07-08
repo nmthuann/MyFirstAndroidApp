@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_message">Message</string>
+    <string name="navigation_notifications">Notification</string>
+    <string name="navigation_account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+</resources>
